@@ -1,0 +1,3 @@
+Comando para inciar o TS
+
+- `npx tsc --init`
