@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "prisma.prisma",
+    "csstools.postcss",
+    "rodrigorgtic.rcomponent",
+    "alexcvzz.vscode-sqlite",
+    "2gua.rainbow-brackets"
+  ]
+}
